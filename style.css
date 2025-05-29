@@ -45,12 +45,12 @@ header h1 {
     overflow: hidden;
     margin: 10px auto 20px;
     /* max-width: 600px;  Let's remove this limit for now */
-    width: 40%; /* Occupy 80% of the header's width */
+    width: 10%; /* Occupy 80% of the header's width */
     max-height: 400px; /* Added a maximum height */
 }
 
 .o_agro_e_tudo_ana_ferreira_agrocampo_jul19.webp {
-    width: 30%;
+    width: 10%;
     height: auto;
     display: block;
     object-fit: cover; /* Maintain aspect ratio and cover container */
