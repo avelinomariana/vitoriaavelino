@@ -40,7 +40,7 @@ header h1 {
     margin-bottom: 10px;
 }
 
-.image-container {
+. {
     border-radius: 8px;
     overflow: hidden;
     margin: 10px auto 20px;
@@ -50,7 +50,7 @@ header h1 {
 }
 
 .o_agro_e_tudo_ana_ferreira_agrocampo_jul19.webp {
-    width: 50%;
+    width: 30%;
     height: auto;
     display: block;
     object-fit: cover; /* Maintain aspect ratio and cover container */
