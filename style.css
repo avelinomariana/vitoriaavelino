@@ -49,8 +49,8 @@ header h1 {
     max-height: 400px; /* Added a maximum height */
 }
 
-.image-container img {
-    width: 100%;
+.o_agro_e_tudo_ana_ferreira_agrocampo_jul19.webp {
+    width: 50%;
     height: auto;
     display: block;
     object-fit: cover; /* Maintain aspect ratio and cover container */
